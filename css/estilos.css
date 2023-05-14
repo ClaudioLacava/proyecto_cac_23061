@@ -488,6 +488,7 @@ color: grey;
         border-color:rgb(41, 167, 68);
         border-radius: 8%;
         align-content: right;
+        margin-top: 5%;
         
     }
     .serOrador{
@@ -498,7 +499,7 @@ color: grey;
         border-color:white;
         border-radius: 8%;
         justify-content: center;
-        
+        margin-top: 5%;
     }
     
     .serOrador:hover{
