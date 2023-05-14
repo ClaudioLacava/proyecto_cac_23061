@@ -637,7 +637,7 @@ color: grey;
     .lugarFecha{
         display: flex;
         align-items: stretch;
-        height: 70vh;
+        height: 110vh;
         position:relative;
     
     }
@@ -645,7 +645,7 @@ color: grey;
     
     .left{
         width: 50%;
-        height: 110%;
+        height: 100%;
         display: inline-block;
         border:1px solid white;
         background-image: url("../assets/img/hawaii3.jpg");
@@ -662,7 +662,7 @@ color: grey;
     .right{
         display: inline-block;
         width: 50%;
-        height: 110%;
+        height: 100%;
         background-color: rgb(53, 58, 64);
         color:white;
         position:absolute;
