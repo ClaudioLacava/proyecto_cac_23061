@@ -411,7 +411,7 @@ color: grey;
   }
 
   /*Celular*/
-  @media screen and (min-width: 500px) and (max-width:767px){
+  @media screen and (min-width: 300px) and (max-width:767px){
     .headerNav{
         background-color:  rgb(51, 55, 61);;
         height: initial;
