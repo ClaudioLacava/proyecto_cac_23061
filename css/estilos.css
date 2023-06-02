@@ -250,10 +250,9 @@ padding-left: 0.5rem;
 .neg{
 background-color: RGB(107,119,125);
     width: 100rem;
-    height: 2rem;
+    height: 1rem;
     border-radius: 5px;
     color:white;
-   
     padding-right: 0.5rem;
     padding-left: 0.5rem;
    
@@ -262,7 +261,7 @@ background-color: RGB(107,119,125);
 .sta{
     background-color: RGB(219,56,69);
     width: 100rem;
-    height: 2rem;
+    height: 1rem;
     border-radius: 5px;
     color:white;
   
